@@ -16,6 +16,9 @@ Link: https://github.com/JiananLiu-Moose/JiananLiu_algorithm_repo/tree/master/Pe
 #### a). My paper of MRI super resolution image reconstruction by using deep learning.
 coming soon.
 
+Abstract Version:
+https://github.com/JiananLiu-Moose/JiananLiu_algorithm_repo/blob/master/Computer%20Vision%20for%20Medical%20Image/MRI%20Super%20Resolution%20Reconstruction/Abstract_Version_Edge_Structure_and_Frequency_Refinement_for_MRI_Super_Resolution_Reconstruction.pdf
+
 
 ### 3. Machine Learning and Deep Learning
 #### a). My slides about machine learning
